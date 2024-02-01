@@ -1,0 +1,12 @@
+#timeInputContainer {
+    max-width: 500px;
+    margin: auto;
+}
+
+#timeList {
+    text-align: left;
+}
+
+#totalTime {
+    font-size: 1.2rem;
+}

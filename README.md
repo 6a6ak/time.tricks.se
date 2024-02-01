@@ -1,6 +1,6 @@
 # Time Duration Calculator
 
-[time.tricks.se](http://time.tricks.se)
+[time.tricks.se](http://tricks.se/time/)
 
 
 ## Description
